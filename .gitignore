@@ -1,0 +1,21 @@
+#vs files 
+
+**/.vs/
+
+#binary
+
+**/debug/
+**/release/
+**/x64/ 
+**/enc_temp_folder/
+
+#dont need files with next extensions:
+
+**/*.stash
+**/*.user
+**/*.pro
+**/*.pri
+**/*.orig
+**/*.autosave
+**/*.ini
+**/*.txt
